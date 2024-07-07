@@ -53,12 +53,58 @@ text-align: center;
 
 /* offer section  */
 
-.offer-container{
+.second-section-container{
 width: 802.9px;
 height: 806px;
-border: 2px solid red;
 margin: 0 auto;
-margin-top: 120px;
-background-image: url("./new-year-offer-resources-main/images/New\ Year\ Photo.png");
+margin-top: 60px;
+/* background-image: url("./new-year-offer-resources-main/images/New\ Year\ Photo.png"); */
 background-repeat: no-repeat;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.second-section-content{
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: auto;
+
+
+}
+
+.second-section-content h1{
+  color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+margin-top: 20px;
+
+}
+
+.second-section-content p{
+  color: rgb(255, 0, 0);
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.second-section-content h3{
+  color: rgb(7, 2, 17);
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58px;
+  margin-top: 30px;
+}
+
+.image-section{
+  
+width: 802.9px;
+height: 500px;
+
 }
