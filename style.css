@@ -137,10 +137,7 @@ background-blend-mode: overlay;
   
 }
 
-/* .rightside-content{
-  width: 50%;
-  height: 600px;
-  border: 2px solid green; */
+
 
 .rightside-content{
   width: 50%;
@@ -184,5 +181,35 @@ background-blend-mode: overlay;
   margin-top: 20px;
 }
   
+
+/* time , zone , place  */
+
+/* .time{
+  border: 2px solid red;
+  width: 1320px;
+height: 482px;
+display: flex;
+margin: 0 auto;
+margin-top: 120px;
+background-color: border-radius: 16px;
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
